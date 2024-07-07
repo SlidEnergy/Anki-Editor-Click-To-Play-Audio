@@ -1,0 +1,23 @@
+# Anki
+user_files/
+meta.json
+user_files
+*.ankiaddon
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# vscode
+.vscode/
+
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+._*
+
+# misc
+src/version.py
+tmp/
